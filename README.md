@@ -29,6 +29,7 @@ To use data visualization to uncover meaningful patterns and trends in school pe
 ## 📷 Dashboard Preview
 
 
+![Screenshot 2025-04-24 152513](https://github.com/user-attachments/assets/fae567d4-39b0-48c3-99da-3b442d52ac40)
 
 ---
 
@@ -40,5 +41,5 @@ To use data visualization to uncover meaningful patterns and trends in school pe
 
 ---
 
-## 📁 File Structure
+
 
